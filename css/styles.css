@@ -2,4 +2,21 @@ ul {
   list-style-type: none;
   margin: 0;
   padding:0;
+  position: fixed;
+  top:0;
+  width: 100%;
+  overflow: hidden;
+  background-color: black;
+  }
+
+li {
+  display: inline;
+  float:left;
+}
+a{
+  display:block;
+  padding: 8px;
+  color: white;
+  text-align: center;
+
 }
