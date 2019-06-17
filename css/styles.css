@@ -37,6 +37,7 @@ a {
   color: black !important;
   font-size: 40px;
   line-height: 48px;
+  padding-right: 70px; 
 }
 
 .form-cont input {
@@ -119,7 +120,7 @@ body {
 
 .sidenav {
   height: 99%;
-  width: 100px;
+  width: 115px;
   position: fixed;
   z-index: 1;
   top: 0;
