@@ -5,6 +5,8 @@ This is an application where you can choose toppings and crust and size of pizza
 ## Setup/Installation Requirements
 * Clone the program from Online repo
 * Click on the green button to clone or download
+* On the top right corner of your screen, click the 'fork' button to fork my work.
+
 
 ## Known Bugs
 The user cannot have the quantity desired.
