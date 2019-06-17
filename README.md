@@ -7,15 +7,17 @@
 This is an application where you can choose toppings and crust and size of pizza also giving the price of all .
 
 ## Setup/Installation Requirements
-*
+
+\*
+
 # BEHAVIOR DRIVEN DEVELOPMENT (Specifications)
 
 * * *
 
-Behaviour 	Input 	Output
-Giving total cost of pizza choice 	Check boxes for prefered size and topping 	The total amount of the package selected shows
-Pop up for customer to select delivery 	Type location, address and contact 	Shows the order has been received and is being processed
-
+|| Behaviour                              | Input                                     | Output                                                   |
+| -------------------------------------- | ----------------------------------------- | -------------------------------------------------------- |
+| Giving total cost of pizza choice      | Check boxes for prefered size and topping | The total amount of the package selected shows           |
+| Pop up for customer to select delivery | Type location                             | Shows the order has been received and is being processed |
 
 
 ## Known Bugs
