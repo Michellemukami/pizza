@@ -2,6 +2,7 @@
 #### This is an application where you order pizaa, 17/June/2019
 ## Description
 This is an application where you can choose toppings and crust and size of pizza also giving the price of all .
+by Mchelle Mukami
 ## Setup/Installation Requirements
 * Clone the program from Online repo
 * Click on the green button to clone or download
