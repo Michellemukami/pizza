@@ -110,15 +110,8 @@ function openForm() {
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
 }
-
-
-$("button").click(function(kami) {
-  var client = document.getElementById('client').value;
-  alert(client + ' we have received your message' + ' Thank you');
-  kami.preventDefault();
-});
-$("button").on('click', function() {
-  $('form').each(function() {
-    this.reset();
-  });
-});
+$("#form").submit(function () {
+   event.preventDefault();
+   var name = $("#location").val()
+   $(".result").append("Thank you your pizza will be delivered to " + name );
+ });
