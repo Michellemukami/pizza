@@ -28,16 +28,16 @@ function invoice() {
   var delivery = document.querySelector('input[name="delivery"]:checked').value;
   console.log("delivery=" + delivery);
   var deliveryPrice = 0;
-  var deliveryPrice=0;
-    if (size === "Personal") {
-      deliveryPrice = 200;
-    } else if (size === "Medium") {
-      deliveryPrice = 200;
-    } else if (size === "Large") {
-      deliveryPrice = 200;
-    } else {
-      deliveryPrice = 0;
-    };
+  var deliveryPrice = 0;
+  if (size === "Personal") {
+    deliveryPrice = 200;
+  } else if (size === "Medium") {
+    deliveryPrice = 200;
+  } else if (size === "Large") {
+    deliveryPrice = 200;
+  } else {
+    deliveryPrice = 0;
+  };
 
   console.log("deliveryPrice=" + deliveryPrice);
 
@@ -80,7 +80,7 @@ function invoice() {
   }
 
 
-  var totalPrice = ( meatPrice + crustPrice + deliveryPrice + sizePrice);
+  var totalPrice = (meatPrice + crustPrice + deliveryPrice + sizePrice);
   console.log("totalPrice=" + totalPrice);
 
   $("#size").html(size + " Pizza");
