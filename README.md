@@ -1,28 +1,43 @@
 # {Pizzaria}
+
 #### {This is an application where you order pizaa}, {17/June/2019}
+
 ## Description
-{This is an application where you can choose toppings and crust and size of pizza also giving the price of all . }
+
+This is an application where you can choose toppings and crust and size of pizza also giving the price of all .
+
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+*
+# BEHAVIOR DRIVEN DEVELOPMENT (Specifications)
+
+* * *
+
+Behaviour 	Input 	Output
+Giving total cost of pizza choice 	Check boxes for prefered size and topping 	The total amount of the package selected shows
+Pop up for customer to select delivery 	Type location, address and contact 	Shows the order has been received and is being processed
+
+
+
 ## Known Bugs
-{The user cannot have the quantity desired. }
+
+The user cannot have the quantity desired.
+
 ## Technologies Used
-{HTML
-CSS
-Bootsrap
-JQuery
-Javascript
-}
+
+-   HTML
+-   CSS
+-   Bootsrap
+-   JQuery
+-   Javascript
+
 ## Support and contact details
+
 For any concerns feel free to contact me
 mitchellemukami@gmail.com
-### License
-The project is under MIT license Copyright © 2019.All rights reserved
 
+### License
+
+The project is under MIT license Copyright © 2019.All rights reserved
 
 Copyright (c) [2019][michelle mukami gitau]
 
