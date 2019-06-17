@@ -1,7 +1,7 @@
-# {Pizzaria}
-#### {This is an application where you order pizaa}, {17/June/2019}
+# Pizzaria
+#### This is an application where you order pizaa, 17/June/2019
 ## Description
-{This is an application where you can choose toppings and crust and size of pizza also giving the price of all . }
+This is an application where you can choose toppings and crust and size of pizza also giving the price of all . 
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -9,14 +9,14 @@
 * easy-to-understand
 * format
 ## Known Bugs
-{The user cannot have the quantity desired. }
+The user cannot have the quantity desired. 
 ## Technologies Used
-{HTML
+HTML
 CSS
 Bootsrap
 JQuery
 Javascript
-}
+
 ## Support and contact details
 For any concerns feel free to contact me
 mitchellemukami@gmail.com
