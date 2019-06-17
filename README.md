@@ -3,19 +3,17 @@
 ## Description
 This is an application where you can choose toppings and crust and size of pizza also giving the price of all . 
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* Clone the program from Online repo
+* Click on the green button to clone or download
+
 ## Known Bugs
 The user cannot have the quantity desired. 
 ## Technologies Used
-HTML
-CSS
-Bootsrap
-JQuery
-Javascript
+* HTML
+* CSS
+* Bootsrap
+* JQuery
+* Javascript
 
 ## Support and contact details
 For any concerns feel free to contact me
